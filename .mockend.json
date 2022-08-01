@@ -1,5 +1,38 @@
-{
-  "User": {
-    "title": { "string": {} }
-  }
-}
+[
+    {
+        key: '1',
+        name: 'Nha thuoc Minh Hoang',
+        owner: 'Nguyen Hoang Minh',
+        status: 1,
+        document: 'Co giay phep',
+        testing: 'Tot',
+        a: '21/10/2019'
+    },
+    {
+        key: '2',
+        name: 'Nha thuoc Binh An',
+        owner: 'Tran An Binh',
+        status: 1,
+        document: 'Co giay phep',
+        testing: 'Tot',
+        a: '26/09/2015'
+    },
+    {
+        key: '3',
+        name: 'Nha thuoc HTL',
+        owner: 'Huynh Thi Lan',
+        status: 0,
+        document: 'Giay phep het han',
+        testing: 'Kem',
+        a: '01/03/2020'
+    },
+    {
+        key: '4',
+        name: 'Nha thuoc Sai Gon',
+        owner: 'Le Huynh Phuong Nam',
+        status: 0,
+        document: 'Khong co giay phep',
+        testing: 'Kem',
+        a: 'Khong co'
+    }
+]
