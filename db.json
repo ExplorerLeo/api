@@ -1,0 +1,110 @@
+[
+    {
+        "key": "1",
+        "name": "Nha thuoc Minh Hoang",
+        "owner": "Nguyen Hoang Minh",
+        "status": 1,
+        "document": "Co giay phep",
+        "testing": "Tot",
+        "a": "21/10/2019"
+    },
+    {
+        "key": "2",
+        "name": "Nha thuoc Binh An",
+        "owner": "Tran An Binh",
+        "status": 1,
+        "document": "Co giay phep",
+        "testing": "Tot",
+        "a": "26/09/2015"
+    },
+    {
+        "key": "3",
+        "name": "Nha thuoc HTL",
+        "owner": "Huynh Thi Lan",
+        "status": 0,
+        "document": "Giay phep het han",
+        "testing": "Kem",
+        "a": "01/03/2020"
+    },
+    {
+        "key": "4",
+        "name": "Nha thuoc Sai Gon",
+        "owner": "Le Huynh Phuong Nam",
+        "status": 0,
+        "document": "Khong co giay phep",
+        "testing": "Kem",
+        "a": "Khong co"
+    },
+    {
+        "key": "5",
+        "name": "Nha thuoc OPC",
+        "owner": "Nguyen Ngoc Han",
+        "status": 0,
+        "document": "Khong co giay phep",
+        "testing": "Kem",
+        "a": "Khong co"
+    },
+    {
+        "key": "6",
+        "name": "Nha thuoc Quynh Nhu",
+        "owner": "Le Nhu Quynh",
+        "status": 1,
+        "document": "Co giay phep",
+        "testing": "Tot",
+        "a": "22/11/2021"
+    },
+    {
+        "key": "7",
+        "name": "Nha thuoc AGH",
+        "owner": "Truong Minh Hoang",
+        "status": 1,
+        "document": "Co giay phep",
+        "testing": "Tot",
+        "a": "19/02/2011"
+    },
+    {
+        "key": "8",
+        "name": "Nha thuoc THL",
+        "owner": "Tran Hong Long",
+        "status": 0,
+        "document": "Khong co giay phep",
+        "testing": "Kem",
+        "a": "Khong co"
+    },
+    {
+        "key": "9",
+        "name": "Nha thuoc Family",
+        "owner": "Vu Ngoc Minh",
+        "status": 1,
+        "document": "Co giay phep",
+        "testing": "Tot",
+        "a": "21/07/2018"
+    },
+    {
+        "key": "10",
+        "name": "Nha thuoc OOP",
+        "owner": "Nguyen Minh Cuong",
+        "status": 0,
+        "document": "Khong co giay phep",
+        "testing": "Kem",
+        "a": "Khong co"
+    },
+    {
+        "key": "11",
+        "name": "Nha thuoc Huu Binh",
+        "owner": "Le Huu Binh",
+        "status": 1,
+        "document": "Co giay phep",
+        "testing": "Tot",
+        "a": "28/12/2005"
+    },
+    {
+        "key": "12",
+        "name": "Nha thuoc Phuc Bao",
+        "owner": "Huynh Phuc Bao",
+        "status": 0,
+        "document": "Khong co giay phep",
+        "testing": "Kem",
+        "a": "Khong co"
+    }
+]
