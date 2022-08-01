@@ -1,6 +1,5 @@
 [
     {
-        key: '1',
         name: 'Nha thuoc Minh Hoang',
         owner: 'Nguyen Hoang Minh',
         status: 1,
@@ -9,7 +8,6 @@
         a: '21/10/2019'
     },
     {
-        key: '2',
         name: 'Nha thuoc Binh An',
         owner: 'Tran An Binh',
         status: 1,
@@ -18,7 +16,6 @@
         a: '26/09/2015'
     },
     {
-        key: '3',
         name: 'Nha thuoc HTL',
         owner: 'Huynh Thi Lan',
         status: 0,
@@ -27,7 +24,6 @@
         a: '01/03/2020'
     },
     {
-        key: '4',
         name: 'Nha thuoc Sai Gon',
         owner: 'Le Huynh Phuong Nam',
         status: 0,
